@@ -1,3 +1,4 @@
+# Parses an individual line from the USNO HTML file.
 class UsnoLineParser
   def initialize(line)
     @line = line
